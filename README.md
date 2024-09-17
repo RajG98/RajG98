@@ -1,6 +1,9 @@
-# Hi, I'm Rajarshi Goswami! 👋
+# Hi, I'm Rajarshi Goswami! 👋 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50">
 
 I'm a passionate software developer with a strong foundation in **React, Java, and Spring Boot**. I have hands-on experience in building responsive web applications, implementing RESTful APIs, and managing databases. I’ve worked with various technologies through internships and personal projects, and I am eager to learn and contribute to innovative solutions.
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="coding gif">
 
 ## 🔧 Technologies & Tools
 - **Languages**: Java, JavaScript, SQL
@@ -8,6 +11,8 @@ I'm a passionate software developer with a strong foundation in **React, Java, a
 - **Backend**: Spring Boot, Hibernate, JPA, JDBC
 - **Databases**: MySQL, SQL Server, PL/SQL
 - **Other Tools**: Docker, Kubernetes, Git & GitHub, Maven
+
+<img src="https://media.giphy.com/media/UqZ0Lb3HJl7wU/giphy.gif" width="300" alt="tools gif">
 
 ## 💼 Professional Experience
 ### Software Engineer Trainee - Kovair Software Private Limited (Mar 2024 – Jul 2024)
@@ -34,6 +39,8 @@ I'm a passionate software developer with a strong foundation in **React, Java, a
 ### [Portfolio Website](https://portfolio-rajarshi.vercel.app/)
 - My personal portfolio showcasing my skills and projects, designed using **React**.
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="portfolio gif">
+
 ## 🏆 Awards & Certifications
 - **GeeksForGeeks Coding Score (350+)**: Solved over 170 coding questions.
 - **GeeksForGeeks Contest Rating (Level 3)**: Regular participant in coding contests.
@@ -46,8 +53,14 @@ I'm a passionate software developer with a strong foundation in **React, Java, a
 ## 🏅 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajG98&layout=compact&theme=radical)
 
+## 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=RajG98&color=brightgreen)
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="profile gif">
+
 ## 📫 Contact Me
 - Email: [rajarshig007@gmail.com](mailto:rajarshig007@gmail.com)
 - LinkedIn: [Rajarshi Goswami](https://www.linkedin.com/in/rajarshi-goswami-85056320b)
 - GitHub: [github.com/RajG98](https://github.com/RajG98)
 
+<img src="https://media.giphy.com/media/3oEdv3Ul4B2jw0V3Ik/giphy.gif" width="200" alt="thanks gif">
