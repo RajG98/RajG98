@@ -60,7 +60,7 @@ I'm a passionate software developer with a strong foundation in **React, Java, a
 
 ## 📫 Contact Me
 - Email: [rajarshig007@gmail.com](mailto:rajarshig007@gmail.com)
-- LinkedIn: [Rajarshi Goswami](https://www.linkedin.com/in/rajarshi-goswami-85056320b)
+- LinkedIn: [Rajarshi Goswami](https://www.linkedin.com/in/rajarshig007)
 - GitHub: [github.com/RajG98](https://github.com/RajG98)
 
 <img src="https://media.giphy.com/media/3oEdv3Ul4B2jw0V3Ik/giphy.gif" width="200" alt="thanks gif">
